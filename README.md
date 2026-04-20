@@ -137,12 +137,3 @@ GUI:t spelar ljud automatiskt från mappen `sounds/`:
 
 Om filerna saknas eller inte kan spelas fortsätter spelet utan ljud.
 
-## Snabb test (för examinator)
-
-1. Kör `install.bat`
-2. Kör `start.bat`
-3. Starta ett parti och gör några drag
-4. Bekräfta att:
-   - pjäser kan flyttas med musen
-   - Stockfish spelar motdrag i läget "Spela mot Stockfish"
-   - `Tips` visar ett rekommenderat drag
